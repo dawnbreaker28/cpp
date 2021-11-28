@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/2021Summer/281Project3/kdtree.hpp
+tuple
+-
+vector
+-
+algorithm
+-
+cassert
+-
+stdexcept
+-
+
+E:/2021Summer/281Project3/main.cpp
+iostream
+-
+kdtree.hpp
+E:/2021Summer/281Project3/kdtree.hpp
+
